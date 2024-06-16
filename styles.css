@@ -205,15 +205,15 @@ article h3 {
 .info {
     background-color: lime;
     padding: 15px;
-    color: #fff;
+    color: #000000;
     text-align: center;
 }
 
 .alert {
-    background-color: #fca607;
+    background-color: #e7ff4a;
     padding: 10px;
     text-align: center;
-    color: #fff;
+    color: #000000;
 }
 
 .status-container {
